@@ -1,4 +1,22 @@
 {
+  {
+  "name": "slopegame",
+  "description": "Slope Game Unblocked",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "yarn",
+    "start": "yarn run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MINECRAFTGOLDFISH3/SlopeGame.git"
+  },
+  "keywords": [],
+  "author": "MINECRAFTGOLDFISH3",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MINECRAFTGOLDFISH3/SlopeGame/issues"
+  },
   "dependencies": {
     "grunt": "^1.5.3"
   },
@@ -6,4 +24,5 @@
     "grunt-contrib-cssmin": "^4.0.0",
     "grunt-uncss": "^0.10.1"
   }
+  "homepage": "https://github.com/MINECRAFTGOLDFISH3/SlopeGame"
 }
