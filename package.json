@@ -17,12 +17,5 @@
   "bugs": {
     "url": "https://github.com/MINECRAFTGOLDFISH3/SlopeGame/issues"
   },
-  "dependencies": {
-    "grunt": "^1.5.3"
-  },
-  "devDependencies": {
-    "grunt-contrib-cssmin": "^4.0.0",
-    "grunt-uncss": "^0.10.1"
-  }
   "homepage": "https://github.com/MINECRAFTGOLDFISH3/SlopeGame"
 }
